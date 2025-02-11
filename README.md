@@ -14,7 +14,7 @@ npm start
 Luego de iniciar se abre en tu navegador:
 
 http://localhost:3000
-🎯 Funcionalidad ( FETCH)
+🎯 Funcionalidad (FETCH)
 Busca un Pokémon por nombre o número.
 Muestra su imagen, peso y altura.
 Utiliza React, Fetch API y useState para gestionar datos.
